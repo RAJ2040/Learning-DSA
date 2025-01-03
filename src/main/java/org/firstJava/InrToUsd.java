@@ -8,7 +8,7 @@ public class InrToUsd {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter Amount in Rupees : ");
         int amount = in.nextInt();
-        System.out.print("Enter Conversion rate of USD : ");
+        System.out.print("Enter Current Conversion rate of USD : ");
         double cRate = in.nextDouble();
 
         double cAmt = amount*cRate;

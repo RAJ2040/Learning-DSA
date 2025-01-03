@@ -18,8 +18,8 @@ public class Palindrome {
         }
         String newPal = sb.toString();
         if(pal.equals(newPal)){
-            System.out.println(pal+" is a Palindrome");
-        }else System.out.println(pal+" is not a Palindrome");
+            System.out.println(pal+" is Palindrome");
+        }else System.out.println(pal+" is not Palindrome");
 
     }
 }
