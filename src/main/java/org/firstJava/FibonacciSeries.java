@@ -4,7 +4,7 @@ package org.firstJava;
 import org.flowOfProgram.Sum;
 
 import java.util.Scanner;
-
+//To calculate Fibonacci Series up to n numbers.
 public class FibonacciSeries {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
