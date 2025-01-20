@@ -76,6 +76,7 @@ public class ArraysPrat {
         }
 
     }
+//Swap function
     static void swap(int[] arr,int ind1,int ind2){
         int temp = arr[ind1];
         arr[ind1] = arr[ind2];

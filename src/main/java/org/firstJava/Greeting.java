@@ -11,4 +11,5 @@ public class Greeting {
         String name = in.next();
         System.out.println("Hello "+name+" how are you, welcome to my world ");
     }
+
 }
